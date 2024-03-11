@@ -1,0 +1,1 @@
+tk numpy mediapipe tensorflow opencv-python pandas matplotlib
